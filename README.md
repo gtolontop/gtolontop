@@ -14,7 +14,7 @@
 </a>
 
 <h3 align="left" style="text-decoration: underline;"><u>fivelink.lol Website:</u></h3>
-<p><a href="https://fivelink.lol" target="_blank">Website - fivelink.lol</a> (in BETA...)</p>
+<p><a href="https://fivelink.lol" target="_blank">Website - fivelink.lol</a></p>
 
 <h3 align="left" style="text-decoration: underline;"><u>fivelink.lol Discord:</u></h3>
 <p><a href="https://discord.gg/fivelink" target="_blank">Discord - fivelink.lol</a></p>
