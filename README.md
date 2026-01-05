@@ -45,6 +45,8 @@
   - YorkHost <i>(French Hosting)</i>
   - FiveM Admin Community <i>(Community Server)</i>
   - FiveM Resource Finder <i>(FiveM Website/Community)</i>
+  - PrisonRP <i>(FiveM Roleplay Prison Server)</i>
+  - PaladinRP <i>(FiveM Roleplay Server)</i>
 
 
 <h3 align="left" style="text-decoration: underline;">What we I for Work? <i>(language & software for work)</i></h3>
