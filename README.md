@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm @Gtol – creator of <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a></h1>
 
 <p align="left"> 
-  <a href="https://discord.gg/fivelink" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
+  <a href="https://discord.gg/fivelink" rel="nofollow"><img src="https://img.shields.io/discord/1312216952625954857?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
   <img src="https://komarev.com/ghpvc/?username=gtolontop&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="View Profil"/>
   <img src="https://img.shields.io/github/followers/gtolontop?style=react" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/gtolontop?style=react" alt="GitHub Stars"/>
