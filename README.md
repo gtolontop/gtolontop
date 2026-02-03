@@ -19,11 +19,14 @@
 <h3 align="left" style="text-decoration: underline;"><u>fivelink.lol Discord:</u></h3>
 <p><a href="https://discord.gg/fivelink" target="_blank">Discord - fivelink.lol</a></p>
 
+  <img align="right" src="https://github.com/gtolontop/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
 
 <span><b>💞️ Where do I need help (hiring)?</b></span>
-  - <del>FiveM Mapper <i>(Can Make IPL/MLO/Entire Maps)</i><del>
-  - FiveM Video Editor <i>(With quality of NoPixel Trailer)</i><img align="right" src="https://github.com/gtolontop/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
-  - Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i>
+<br>
+  - <b>PCB Designer & Hardware Maker</b> <i>(Design custom PCB, 3D Case modeling & Enclosure)</i>
+  - <b>Production & Supply Chain Manager</b> <i>(Factory documentation, BOM, CPL & Shipping logistics)</i>
+  - <b>Fullstack Developer</b> <i>(ReactJS + ViteJS for FrontEnd & API integration & RUST)</i>
+  - <b>Quality Control Specialist</b> <i>(Testing prototypes and final hardware units)</i>
 <br>
 
 <span><b>💞️ Where did I work?</b></span>
