@@ -102,9 +102,9 @@
 </tr>
 </table>
 
-<div align="center">
+<!--<div align="center">
   <img width="350rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gtol&range=last_year&theme=react" alt="WakaTime Stats for Gtol" />
-</div>
+</div>-->
 <table align="center">
   <tr>
     <td>
