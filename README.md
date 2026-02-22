@@ -95,15 +95,7 @@
 </td>
 </tr>
 </table>
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="375em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gtol&layout=compact&langs_count=8&card_width=320&theme=react" />
-</td>
-</tr>
-</table>
-
+  
 <!--<div align="center">
   <img width="350rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gtol&range=last_year&theme=react" alt="WakaTime Stats for Gtol" />
 </div>-->
