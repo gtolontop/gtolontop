@@ -37,6 +37,7 @@
   - Cruck Store <i>(FiveM Script Store)</i>
   - Vaste <i>(Voxel Game Service)</i>
   - Quasar Store <i>(FiveM Script Store)</i>
+  - Quasar University <i>(FiveM Academy)</i>
   - NightFall FA <i>(FiveM RP Server)</i>
   - French PVP <i>(FiveM PVP Server)</i>
   - The Last Colony <i>(FiveM Apocalypse Server)</i>
