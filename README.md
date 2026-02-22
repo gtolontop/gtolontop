@@ -99,9 +99,6 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=gtolontop&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
-</td>
-<td>
   <img width="375em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gtol&layout=compact&langs_count=8&card_width=320&theme=react" />
 </td>
 </tr>
