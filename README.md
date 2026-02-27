@@ -26,6 +26,7 @@
   - <b>PCB Designer & Hardware Maker</b> <i>(Design custom PCB, 3D Case modeling & Enclosure)</i>
   - <b>Production & Supply Chain Manager</b> <i>(Factory documentation, BOM, CPL & Shipping logistics)</i>
   - <b>Fullstack Developer</b> <i>(ReactJS + ViteJS for FrontEnd & API integration & RUST)</i>
+  - <b>FiveM Video Editor</b> <i>(Video like nopixel etc with rockstar editor)</i>
   - <b>Quality Control Specialist</b> <i>(Testing prototypes and final hardware units)</i>
 <br>
 
