@@ -31,7 +31,7 @@
 <br>
 
 <span><b>💞️ Where did I work?</b></span>
-  - <a href="https://your-script" rel="nofollow">Your Script</a> <i>(FiveM Script&Maps Store)</i>
+  - <a href="https://your-script.com" rel="nofollow">Your Script</a> <i>(FiveM Script&Maps Store)</i>
   - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Best Bio Website for put your link/portfolio or just for have a cool profile)</i>
   - Kopilot <i>(Hardware Product)</i>
   - Edicted <i>(Academy Website)</i>
