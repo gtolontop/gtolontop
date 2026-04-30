@@ -40,13 +40,13 @@
   - <a href="https://github.com/epyidev/vaste">Vaste</a> <i>(Voxel Game Service)</i>
   - <a href="https://www.quasar-store.com/">Quasar Store</a> <i>(FiveM Script&Maps Store)</i>
   - <a href="https://quasaruniversity.com/">Quasar University</a> <i>(FiveM Academy)</i>
-  - Onex Script <i>(FiveM Script Store)</i>
+  - <a href="https://onexscripts.com/">Onex Script</a> <i>(FiveM Script Store)</i>
   - NightFall FA <i>(FiveM RP Server)</i>
   - French PVP <i>(FiveM PVP Server)</i>
   - The Last Colony <i>(FiveM Apocalypse Server)</i>
   - <a href="https://lrd-store.com/">LRD Store</a> <i>(FiveM Script Store)</i>
   - <a href="https://stgscripts.com/">STG Script</a> <i>(FiveM Script Store)</i>
-  - Eye Store <i>(FiveM Script Store)</i>
+  - <a href="https://eyestore.tebex.io/">Eyes Store</a> <i>(FiveM Script Store)</i>
   - Power Store <i>(FiveM Script Store)</i>
   - <a href="https://codem.tebex.io/">CodeM</a> <i>(FiveM Script Store)</i>
   - <a href="https://github.com/esx-framework">ESX Framework</a> <i>(FiveM Roleplay Framework)</i>
