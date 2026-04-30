@@ -57,7 +57,7 @@
   - PrisonRP <i>(FiveM Roleplay Prison Server)</i>
   - <a href="https://github.com/gtolontop/Timeout-Dashboard">Timeout</a> <i>(Podcast)</i>
 
-<h3 align="left" style="text-decoration: underline;">What we I for Work? <i>(language & software for work)</i></h3>
+<h3 align="left" style="text-decoration: underline;">What i use for Work? <i>(language, software, etc)</i></h3>
 
 <div>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -84,7 +84,7 @@
   <img width="12" />
 </div>
 
-<h3 align="left" style="text-decoration: underline;">What are my Stats? <i>(language we use most, number of commit, etc)</i></h3>
+<h3 align="left" style="text-decoration: underline;">My GitHub Stats? <i>(language I use most, number of commit, etc)</i></h3>
 
 <div>
 <table width="100%" align="center">
