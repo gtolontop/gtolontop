@@ -55,7 +55,7 @@
   - <a href="https://yorkhost.fr">YorkHost</a> <i>(French Hosting)</i>
   - FiveM Resource Finder <i>(FiveM Website/Community)</i>
   - PrisonRP <i>(FiveM Roleplay Prison Server)</i>
-  - Timeout <i>(Podcast)</i>
+  - <a href="https://github.com/gtolontop/Timeout-Dashboard">Timeout</a> <i>(Podcast)</i>
 
 <h3 align="left" style="text-decoration: underline;">What we I for Work? <i>(language & software for work)</i></h3>
 
