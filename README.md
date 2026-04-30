@@ -30,7 +30,8 @@
 
 <span><b>💞️ Where did I work?</b></span>
   - <a href="https://your-script.com" rel="nofollow">Your Script</a> <i>(FiveM Script&Maps Store)</i>
-  - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Best Bio Website for put your link/portfolio or just for have a cool profile)</i>
+  - <a href="https://lyrescript.com/" rel="nofollow">Lyre Script</a> <i>(FiveM Script Store)</i>
+  - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Bio Website)</i>
   - <a href="https://mykopilot.com" ref="nofollow">Kopilot</a> <i>(Hardware Product)</i>
   - <a href="https://edicted.vercel.app/" rel="nofollow">Edicted</a> <i>(Academy Website)</i>
   - T-Dev <i>(Developer Community Discord)</i>
