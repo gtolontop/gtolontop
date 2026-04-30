@@ -44,10 +44,10 @@
   - French PVP <i>(FiveM PVP Server)</i>
   - The Last Colony <i>(FiveM Apocalypse Server)</i>
   - <a href="https://lrd-store.com/">LRD Store</a> <i>(FiveM Script Store)</i>
-  - STG Store <i>(FiveM Script Store)</i>
+  - <a href="https://stgscripts.com/">STG Script</a> <i>(FiveM Script Store)</i>
   - Eye Store <i>(FiveM Script Store)</i>
   - Power Store <i>(FiveM Script Store)</i>
-  - CodeM <i>(FiveM Script Store)</i>
+  - <a href="https://codem.tebex.io/">CodeM</a> <i>(FiveM Script Store)</i>
   - <a href="https://github.com/esx-framework">ESX Framework</a> <i>(FiveM Roleplay Framework)</i>
   - Replace Development <i>(FiveM Script Store)</i>
   - Redlight <i>(Community Server)</i>
