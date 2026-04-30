@@ -25,16 +25,14 @@
 <br>
   - <b>PCB Designer & Hardware Maker</b> <i>(Design custom PCB, 3D Case modeling & Enclosure)</i>
   - <b>Production & Supply Chain Manager</b> <i>(Factory documentation, BOM, CPL & Shipping logistics)</i>
-  - <b>Fullstack Developer</b> <i>(ReactJS + ViteJS for FrontEnd & API integration & RUST)</i>
   - <b>FiveM Video Editor</b> <i>(Video like nopixel etc with rockstar editor)</i>
-  - <b>Quality Control Specialist</b> <i>(Testing prototypes and final hardware units)</i>
 <br>
 
 <span><b>💞️ Where did I work?</b></span>
   - <a href="https://your-script.com" rel="nofollow">Your Script</a> <i>(FiveM Script&Maps Store)</i>
   - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Best Bio Website for put your link/portfolio or just for have a cool profile)</i>
-  - Kopilot <i>(Hardware Product)</i>
-  - Edicted <i>(Academy Website)</i>
+  - <a href="https://mykopilot.com" ref="nofollow">Kopilot</a> <i>(Hardware Product)</i>
+  - <a href="https://edicted.vercel.app/" rel="nofollow">Edicted</a> <i>(Academy Website)</i>
   - T-Dev <i>(Developer Community Discord)</i>
   - Cruck Store <i>(FiveM Script Store)</i>
   - Vaste <i>(Voxel Game Service)</i>
