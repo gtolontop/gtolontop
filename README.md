@@ -43,20 +43,19 @@
   - NightFall FA <i>(FiveM RP Server)</i>
   - French PVP <i>(FiveM PVP Server)</i>
   - The Last Colony <i>(FiveM Apocalypse Server)</i>
-  - LRD Store <i>(FiveM Script Store)</i>
+  - <a href="https://lrd-store.com/">LRD Store</a> <i>(FiveM Script Store)</i>
   - STG Store <i>(FiveM Script Store)</i>
   - Eye Store <i>(FiveM Script Store)</i>
   - Power Store <i>(FiveM Script Store)</i>
   - CodeM <i>(FiveM Script Store)</i>
-  - ESX Framework <i>(FiveM Roleplay Framework)</i>
+  - <a href="https://github.com/esx-framework">ESX Framework</a> <i>(FiveM Roleplay Framework)</i>
   - Replace Development <i>(FiveM Script Store)</i>
   - Redlight <i>(Community Server)</i>
-  - YorkHost <i>(French Hosting)</i>
-  - FiveM Admin Community <i>(Community Server)</i>
+  - <a href="https://yorkhost.fr">YorkHost</a> <i>(French Hosting)</i>
   - FiveM Resource Finder <i>(FiveM Website/Community)</i>
   - PrisonRP <i>(FiveM Roleplay Prison Server)</i>
-  - PaladinRP <i>(FiveM Roleplay Server)</i>
   - Timeout <i>(Podcast)</i>
+  - 
 
 
 <h3 align="left" style="text-decoration: underline;">What we I for Work? <i>(language & software for work)</i></h3>
