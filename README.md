@@ -33,7 +33,7 @@
   - <a href="https://lyrescript.com/" rel="nofollow">Lyre Script</a> <i>(FiveM Script Store)</i>
   - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Bio Website)</i>
   - <a href="https://mykopilot.com" ref="nofollow">Kopilot</a> <i>(Hardware Product)</i>
-  - <a href="https://fivem.net/">Citizenfx</a> <i>(FiveM / Private GTAV Server)
+  - <a href="https://fivem.net/">Citizenfx</a> <i>(FiveM / Private GTAV Server)</i>
   - <a href="https://edicted.vercel.app/" rel="nofollow">Edicted</a> <i>(Academy Website)</i>
   - T-Dev <i>(Developer Community Discord)</i>
   - Cruck Store <i>(FiveM Script Store)</i>
