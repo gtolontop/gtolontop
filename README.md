@@ -37,8 +37,8 @@
   - T-Dev <i>(Developer Community Discord)</i>
   - Cruck Store <i>(FiveM Script Store)</i>
   - Vaste <i>(Voxel Game Service)</i>
-  - Quasar Store <i>(FiveM Script Store)</i>
-  - Quasar University <i>(FiveM Academy)</i>
+  - <a href="https://www.quasar-store.com/">Quasar Store</a> <i>(FiveM Script&Maps Store)</i>
+  - <a href="https://quasaruniversity.com/">Quasar University</a> <i>(FiveM Academy)</i>
   - Onex Script <i>(FiveM Script Store)</i>
   - NightFall FA <i>(FiveM RP Server)</i>
   - French PVP <i>(FiveM PVP Server)</i>
