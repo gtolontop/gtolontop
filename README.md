@@ -13,11 +13,11 @@
   <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.fivelink.lol" align="right"/>
 </a>
 
-<h3 align="left" style="text-decoration: underline;"><u>your-script.com Website:</u></h3>
-<p><a href="https://your-script.com" target="_blank">Website - Your Script</a></p>
+<h3 align="left" style="text-decoration: underline;"><u>Your Script - Website:</u></h3>
+<p><a href="https://your-script.com" target="_blank">Click Me - https://your-script.com</a></p>
 
-<h3 align="left" style="text-decoration: underline;"><u>fivelink.lol Discord:</u></h3>
-<p><a href="https://discord.gg/yourscript" target="_blank">Discord - Your Script</a></p>
+<h3 align="left" style="text-decoration: underline;"><u>Your Script - Discord:</u></h3>
+<p><a href="https://discord.gg/yourscript" target="_blank">Click Me - https://discord.gg/yourscript</a></p>
 
   <img align="right" src="https://github.com/gtolontop/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
 
