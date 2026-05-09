@@ -8,14 +8,13 @@
   </a>
 
   <br>
-
-  <a href="https://discord.gg/fivelink" rel="nofollow">
-    <img src="https://img.shields.io/discord/1312216952625954857?color=success&label=Discord&style=flat" alt="Discord" />
-  </a>
+<div align="center">
+  <a href="https://discord.gg/fivelink" rel="nofollow"><img src="https://img.shields.io/discord/1312216952625954857?color=success&label=Discord&style=flat" alt="Discord" /></a>
   <img src="https://komarev.com/ghpvc/?username=gtolontop&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/gtolontop?style=flat" alt="Followers" />
   <img src="https://img.shields.io/github/stars/gtolontop?style=flat" alt="GitHub Stars" />
   <img src="https://wakatime.com/badge/user/2836c212-418e-410c-998f-fb78b7b30102.svg" alt="WakaTime Total Time" />
+</div>
 </div>
 <br>
 
