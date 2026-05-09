@@ -9,7 +9,7 @@
 
   <br>
 <div align="center">
-  <a href="https://discord.gg/fivelink" rel="nofollow"><img src="https://img.shields.io/discord/1312216952625954857?color=success&label=Discord&style=flat" alt="Discord" /></a>
+  <a href="https://discord.gg/yourscript" rel="nofollow"><img src="https://img.shields.io/discord/1312216952625954857?color=success&label=Discord&style=flat" alt="Discord" /></a>
   <img src="https://komarev.com/ghpvc/?username=gtolontop&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/gtolontop?style=flat" alt="Followers" />
   <img src="https://img.shields.io/github/stars/gtolontop?style=flat" alt="GitHub Stars" />
@@ -21,7 +21,7 @@
 <br>
 
 <a href="https://discord.com/users/746700907248484393">
-  <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.fivelink.lol" align="right"/>
+  <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.your-script.com" align="right"/>
 </a>
 
 <h3 align="left" style="text-decoration: underline;"><u>Your Script - Website:</u></h3>
@@ -127,8 +127,7 @@
 ### 📫 Contact
 
 <div align="center">
-  <a href="https://discord.gg/fivelink" rel="nofollow"><img src="https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://fivelink.lol" rel="nofollow"><img src="https://img.shields.io/badge/fivelink.lol-Visit-00BFFF?style=for-the-badge" alt="fivelink.lol" /></a>
+  <a href="https://discord.gg/yourscript" rel="nofollow"><img src="https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://your-script.com" rel="nofollow"><img src="https://img.shields.io/badge/Your%20Script-Website-00C853?style=for-the-badge" alt="Your Script" /></a>
 </div>
 
