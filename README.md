@@ -16,7 +16,8 @@
   <img src="https://wakatime.com/badge/user/2836c212-418e-410c-998f-fb78b7b30102.svg" alt="WakaTime Total Time" />
 </div>
 </div>
-<br>
+<br>  <br>
+
 <br>
 
 <a href="https://discord.com/users/746700907248484393">
@@ -33,96 +34,102 @@
 <br><br>
 
 
-<span><b>💞️ Where do I need help (hiring)?</b></span>
-<br>
-  - <b>PCB Designer & Hardware Maker</b> <i>(Design custom PCB, 3D Case modeling & Enclosure)</i>
-  - <b>Production & Supply Chain Manager</b> <i>(Factory documentation, BOM, CPL & Shipping logistics)</i>
-  - <b>FiveM Video Editor</b> <i>(Video like nopixel etc with rockstar editor)</i>
-<br>
+### 💞️ Currently looking for help
 
-<span><b>💞️ Where did I work?</b></span>
-  - <a href="https://your-script.com" rel="nofollow">Your Script</a> <i>(FiveM Script&Maps Store)</i>
-  - <a href="https://lyrescript.com/" rel="nofollow">Lyre Script</a> <i>(FiveM Script Store)</i>
-  - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Bio Website)</i>
-  - <a href="https://mykopilot.com" ref="nofollow">Kopilot</a> <i>(Hardware Product)</i>
-  - <a href="https://fivem.net/">Citizenfx (FiveM)</a> <i>(Private GTAV Server)</i>
-  - <a href="https://edicted.vercel.app/" rel="nofollow">Edicted</a> <i>(Academy Website)</i>
-  - T-Dev <i>(Developer Community Discord)</i>
-  - Cruck Store <i>(FiveM Script Store)</i>
-  - <a href="https://github.com/epyidev/vaste">Vaste</a> <i>(Voxel Game Service)</i>
-  - <a href="https://www.quasar-store.com/">Quasar Store</a> <i>(FiveM Script&Maps Store)</i>
-  - <a href="https://quasaruniversity.com/">Quasar University</a> <i>(FiveM Academy)</i>
-  - <a href="https://onexscripts.com/">Onex Script</a> <i>(FiveM Script Store)</i>
-  - NightFall FA <i>(FiveM RP Server)</i>
-  - French PVP <i>(FiveM PVP Server)</i>
-  - The Last Colony <i>(FiveM Apocalypse Server)</i>
-  - <a href="https://lrd-store.com/">LRD Store</a> <i>(FiveM Script Store)</i>
-  - <a href="https://stgscripts.com/">STG Script</a> <i>(FiveM Script Store)</i>
-  - <a href="https://eyestore.tebex.io/">Eyes Store</a> <i>(FiveM Script Store)</i>
-  - Power Store <i>(FiveM Script Store)</i>
-  - <a href="https://codem.tebex.io/">CodeM</a> <i>(FiveM Script Store)</i>
-  - <a href="https://github.com/esx-framework">ESX Framework</a> <i>(FiveM Roleplay Framework)</i>
-  - Replace Development <i>(FiveM Script Store)</i>
-  - Redlight <i>(Community Server)</i>
-  - <a href="https://yorkhost.fr">YorkHost</a> <i>(French Hosting)</i>
-  - FiveM Resource Finder <i>(FiveM Website/Community)</i>
-  - PrisonRP <i>(FiveM Roleplay Prison Server)</i>
-  - <a href="https://github.com/gtolontop/Timeout-Dashboard">Timeout</a> <i>(Podcast)</i>
+- <b>PCB Designer & Hardware Maker</b>  
+<i>Custom PCB design, 3D case modeling, enclosure design and hardware prototyping.</i>
 
-<h3 align="left" style="text-decoration: underline;">What i use for Work? <i>(language, software, etc)</i></h3>
+- <b>Production & Supply Chain Manager</b>  
+<i>Factory documentation, BOM, CPL, production process, shipping and logistics.</i>
 
-<div>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  />
-  <img width="12" />
-</div>
+- <b>FiveM Video Editor</b>  
+<i>High-quality FiveM cinematics, Rockstar Editor, trailers and social content.</i>
 
-<h3 align="left" style="text-decoration: underline;">My GitHub Stats? <i>(language I use most, number of commit, etc)</i></h3>
+### 💞️ Where I work ?
+
+- <a href="https://your-script.com" rel="nofollow">Your Script</a> <i>(FiveM scripts & maps store)</i>
+- <a href="https://lyrescript.com/" rel="nofollow">Lyre Script</a> <i>(FiveM script store)</i>
+- Cruck Store <i>(FiveM script store)</i>
+- <a href="https://www.quasar-store.com/" rel="nofollow">Quasar Store</a> <i>(FiveM scripts & maps store)</i>
+- <a href="https://quasaruniversity.com/" rel="nofollow">Quasar University</a> <i>(FiveM academy)</i>
+- <a href="https://onexscripts.com/" rel="nofollow">Onex Script</a> <i>(FiveM script store)</i>
+- <a href="https://lrd-store.com/" rel="nofollow">LRD Store</a> <i>(FiveM script store)</i>
+- <a href="https://stgscripts.com/" rel="nofollow">STG Script</a> <i>(FiveM script store)</i>
+- <a href="https://eyestore.tebex.io/" rel="nofollow">Eyes Store</a> <i>(FiveM script store)</i>
+- Power Store <i>(FiveM script store)</i>
+- <a href="https://codem.tebex.io/" rel="nofollow">CodeM</a> <i>(FiveM script store)</i>
+- Replace Development <i>(FiveM script store)</i>
+- <a href="https://fivem.net/" rel="nofollow">Cfx.re / FiveM</a> <i>(GTA V multiplayer framework)</i>
+- <a href="https://github.com/esx-framework" rel="nofollow">ESX Framework</a> <i>(FiveM roleplay framework)</i>
+- NightFall FA <i>(FiveM RP server)</i>
+- French PVP <i>(FiveM PVP server)</i>
+- The Last Colony <i>(FiveM apocalypse server)</i>
+- PrisonRP <i>(FiveM prison roleplay server)</i>
+- Redlight <i>(community server)</i>
+- FiveM Resource Finder <i>(FiveM website & community)</i>
+- T-Dev <i>(developer community Discord)</i>
+- <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(bio website platform)</i>
+- <a href="https://mykopilot.com" rel="nofollow">Kopilot</a> <i>(hardware product)</i>
+- <a href="https://edicted.vercel.app/" rel="nofollow">Edicted</a> <i>(academy website)</i>
+- <a href="https://github.com/epyidev/vaste" rel="nofollow">Vaste</a> <i>(voxel game service)</i>
+- <a href="https://yorkhost.fr" rel="nofollow">YorkHost</a> <i>(French hosting)</i>
+- <a href="https://github.com/gtolontop/Timeout-Dashboard" rel="nofollow">Timeout</a> <i>(podcast / dashboard project)</i>
+
+### 🛠️ What I use for work
 
 <div>
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtolontop&theme=react" alt="Profile Summary">
-</td>
-</tr>
-</table>
-  
-<!--<div align="center">
-  <img width="350rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gtol&range=last_year&theme=react" alt="WakaTime Stats for Gtol" />
-</div>-->
-<table align="center">
-  <tr>
-    <td>
-       <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtolontop&theme=github-dark&area=true" alt="Contribution Graph" />
-    </td>
-  </tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="Behance" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse" />
 </div>
 
-<h3 align="left" style="text-decoration: underline;">My Commit Line <i>(in animation)</i></h3>
+---
+
+### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/gtolontop?chart=3dbar&gap=0.2&scale=5&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=cyan&widget_size=large&colors=001f3f,003566,004c99,0066cc,007fff,3399ff,66b2ff,99ccff&dark=true">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtolontop&theme=react" alt="GitHub Profile Summary" />
+</div>
+
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gtolontop&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</div>
+
+---
+
+### 🧬 Commit line
+
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/gtolontop?chart=3dbar&gap=0.2&scale=5&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=cyan&widget_size=large&colors=001f3f,003566,004c99,0066cc,007fff,3399ff,66b2ff,99ccff&dark=true" alt="3D Contribution Chart" />
+</div>
+
+---
+
+### 📫 Contact
+
+<div align="center">
+  <a href="https://discord.gg/fivelink" rel="nofollow"><img src="https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://fivelink.lol" rel="nofollow"><img src="https://img.shields.io/badge/fivelink.lol-Visit-00BFFF?style=for-the-badge" alt="fivelink.lol" /></a>
+  <a href="https://your-script.com" rel="nofollow"><img src="https://img.shields.io/badge/Your%20Script-Website-00C853?style=for-the-badge" alt="Your Script" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
