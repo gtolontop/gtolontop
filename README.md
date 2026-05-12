@@ -75,123 +75,191 @@
 - <a href="https://yorkhost.fr" rel="nofollow">YorkHost</a> <i>(French hosting)</i>
 - <a href="https://github.com/gtolontop/Timeout-Dashboard" rel="nofollow">Timeout</a> <i>(podcast / dashboard project)</i>
 
-### 🛠️ What I use for work
+### 🛠️ Tech Stack & Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="After Effects" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" />
-</div>
 
-<br />
-
-<div>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-</div>
-
-<br />
-
-<div>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img width="12" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
-  <img width="12" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" />
+
 </div>
 
 <br />
 
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="SCSS" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="Electron" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="Tauri" />
+
 </div>
 
 <br />
 
 <div>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="Raspberry Pi" />
-</div>
 
-<br />
-
-<div>
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
-  <img width="12" />
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="Bun" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="PNPM" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="Webpack" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
+
 </div>
 
 <br />
 
 <div>
+
+  <!-- DevOps / Infra -->
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=debian" height="40" alt="Debian" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="Cloudflare" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=apache" height="40" alt="Apache" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+
+</div>
+
+<br />
+
+<div>
+
+  <!-- Creative -->
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="After Effects" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
+
+</div>
+
+<br />
+
+<div>
+
+  <!-- Game Dev / Modding -->
   <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" height="32" alt="FiveM" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/GTA%20V%20Modding-1f6feb?style=for-the-badge" height="32" alt="GTA V Modding" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/OpenIV-222222?style=for-the-badge" height="32" alt="OpenIV" />
+  <img src="https://img.shields.io/badge/RedM-B22222?style=for-the-badge" height="32" alt="RedM" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" height="32" alt="Minecraft" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/HeidiSQL-0B5394?style=for-the-badge" height="32" alt="HeidiSQL" />
+  <img src="https://img.shields.io/badge/Spigot-EA8C2F?style=for-the-badge" height="32" alt="Spigot" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Paper-ffffff?style=for-the-badge&logoColor=black" height="32" alt="Paper" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge" height="32" alt="Fabric" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Forge-D47F39?style=for-the-badge" height="32" alt="Forge" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Bukkit-ED8106?style=for-the-badge" height="32" alt="Bukkit" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Folia-444444?style=for-the-badge" height="32" alt="Folia" />
+
 </div>
 
+<br />
+
+<div>
+
+  <!-- Graphics / Engines -->
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height="32" alt="OpenGL" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge" height="32" alt="WebGL" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/GLSL-555555?style=for-the-badge" height="32" alt="GLSL" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/HLSL-222222?style=for-the-badge" height="32" alt="HLSL" />
+
+</div>
 
 ### 📊 GitHub stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtolontop&theme=react" alt="GitHub Profile Summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtolontop&theme=react&area=true&hide_border=true" alt="GitHub Profile Summary" />
 </div>
 
 
