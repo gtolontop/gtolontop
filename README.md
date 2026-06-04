@@ -1,10 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
 <div align="center">
   <a href="https://your-script.com" rel="nofollow">
-    <img
-      src="https://capsule-render.vercel.app/api?type=transparent&height=65&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20%40Gtol%20%E2%80%93%20creator%20of%20Your%20Script&fontSize=35&fontColor=ffffff&animation=fadeIn"
-      alt="Hi, I'm @Gtol – creator of Your Script"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20%40Gtol%20%E2%80%93%20creator%20of%20Your%20Script&fontSize=35&fontColor=ffffff&animation=fadeIn"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20%40Gtol%20%E2%80%93%20creator%20of%20Your%20Script&fontSize=35&fontColor=111827&animation=fadeIn"
+      />
+      <img
+        width="100%"
+        alt="Hi, I'm @Gtol – creator of Your Script"
+        src="https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20%40Gtol%20%E2%80%93%20creator%20of%20Your%20Script&fontSize=35&fontColor=ffffff&animation=fadeIn"
+      />
+    </picture>
   </a>
 
   <br>
