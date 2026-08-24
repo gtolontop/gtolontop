@@ -58,6 +58,7 @@
 
 ### 💞️ Where I work ?
 
+- <a href="https://chat.mykopilot.com" rel="nofollow">Lucille Labs</a> <i>(AI Labs)</i>
 - <a href="https://your-script.com" rel="nofollow">Your Script</a> <i>(FiveM scripts & maps store)</i>
 - <a href="https://lyrescript.com/" rel="nofollow">Lyre Script</a> <i>(FiveM script store)</i>
 - Cruck Store <i>(FiveM script store)</i>
