@@ -65,13 +65,13 @@
 - Cruck Store <i>(FiveM script store)</i>
 - <a href="https://www.quasar-store.com" rel="nofollow">Quasar Store</a> <i>(FiveM scripts & maps store)</i>
 - <a href="https://quasaruniversity.com" rel="nofollow">Quasar University</a> <i>(FiveM academy)</i>
-- <a href="https://onexscripts.com/" rel="nofollow">Onex Script</a> <i>(FiveM script store)</i>
-- <a href="https://lrd-store.com/" rel="nofollow">LRD Store</a> <i>(FiveM script store)</i>
-- <a href="https://stgscripts.com/" rel="nofollow">STG Script</a> <i>(FiveM script store)</i>
-- <a href="https://eyestore.tebex.io/" rel="nofollow">Eyes Store</a> <i>(FiveM script store)</i>
+- <a href="https://onexscripts.com" rel="nofollow">Onex Script</a> <i>(FiveM script store)</i>
+- <a href="https://lrd-store.com" rel="nofollow">LRD Store</a> <i>(FiveM script store)</i>
+- <a href="https://stgscripts.com" rel="nofollow">STG Script</a> <i>(FiveM script store)</i>
+- <a href="https://eyestore.tebex.io" rel="nofollow">Eyes Store</a> <i>(FiveM script store)</i>
 - Power Store <i>(FiveM script store)</i>
-- <a href="https://codem.tebex.io/" rel="nofollow">CodeM</a> <i>(FiveM script store)</i>
-- Replace Development <i>(FiveM script store)</i>
+- <a href="https://codem.tebex.io" rel="nofollow">CodeM</a> <i>(FiveM script store)</i>
+- <a href="http://replacestudios.net" rel="nofollow">Replace Studios</a> <i>(FiveM studios)</i>
 - <a href="https://fivem.net/" rel="nofollow">Cfx.re / FiveM</a> <i>(GTA V multiplayer framework)</i>
 - <a href="https://github.com/esx-framework" rel="nofollow">ESX Framework</a> <i>(FiveM roleplay framework)</i>
 - NightFall FA <i>(FiveM RP server)</i>
