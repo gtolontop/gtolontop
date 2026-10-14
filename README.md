@@ -58,12 +58,13 @@
 
 ### 💞️ Where I work ?
 
+- <a href="https://facade.your-script.com" rel="nofollow">Facade</a> <i>(Web Design Agency)</i>
 - <a href="https://chat.mykopilot.com" rel="nofollow">Lucille Labs</a> <i>(AI Labs)</i>
 - <a href="https://your-script.com" rel="nofollow">Your Script</a> <i>(FiveM scripts & maps store)</i>
-- <a href="https://lyrescript.com/" rel="nofollow">Lyre Script</a> <i>(FiveM script store)</i>
+- <a href="https://lyrescript.com" rel="nofollow">Lyre Script</a> <i>(FiveM script store)</i>
 - Cruck Store <i>(FiveM script store)</i>
-- <a href="https://www.quasar-store.com/" rel="nofollow">Quasar Store</a> <i>(FiveM scripts & maps store)</i>
-- <a href="https://quasaruniversity.com/" rel="nofollow">Quasar University</a> <i>(FiveM academy)</i>
+- <a href="https://www.quasar-store.com" rel="nofollow">Quasar Store</a> <i>(FiveM scripts & maps store)</i>
+- <a href="https://quasaruniversity.com" rel="nofollow">Quasar University</a> <i>(FiveM academy)</i>
 - <a href="https://onexscripts.com/" rel="nofollow">Onex Script</a> <i>(FiveM script store)</i>
 - <a href="https://lrd-store.com/" rel="nofollow">LRD Store</a> <i>(FiveM script store)</i>
 - <a href="https://stgscripts.com/" rel="nofollow">STG Script</a> <i>(FiveM script store)</i>
