@@ -35,13 +35,14 @@
   <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.your-script.com" align="right"/>
 </a>
 
-<h3 align="left" style="text-decoration: underline;"><u>Your Script - Website:</u></h3>
-<p><a href="https://your-script.com" target="_blank">Click Me - https://your-script.com</a></p>
+<h3 align="left" style="text-decoration: underline;"><u>What I Do</u></h3>
+<p>Fullstack development, custom scripts & creative projects.</p>
 
-<h3 align="left" style="text-decoration: underline;"><u>Your Script - Discord:</u></h3>
-<p><a href="https://discord.gg/yourscript" target="_blank">Click Me - https://discord.gg/yourscript</a></p>
+<h3 align="left" style="text-decoration: underline;"><u>Let's Build Together</u></h3>
+<p>Open to collaborations and ambitious projects.</p>
 
-  <img align="right" src="https://github.com/gtolontop/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
+<img align="right" src="https://github.com/gtolontop/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
+
 <br><br>
 
 ### 💞️ Currently looking for help
