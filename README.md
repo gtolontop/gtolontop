@@ -12,7 +12,7 @@
       />
       <img
         width="100%"
-        alt="Hi, I'm @Gtol – creator of Your Script"
+        alt="Hi, I'm @Gtol – a Fullstack Developer"
         src="https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20%40Gtol%20%E2%80%93%20creator%20of%20Your%20Script&fontSize=35&fontColor=ffffff&animation=fadeIn"
       />
     </picture>
