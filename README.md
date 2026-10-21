@@ -44,14 +44,13 @@
   <img align="right" src="https://github.com/gtolontop/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
 <br><br>
 
-
 ### 💞️ Currently looking for help
 
-- <b>PCB Designer & Hardware Maker</b>  
-<i>Custom PCB design, 3D case modeling, enclosure design and hardware prototyping.</i>
+- <b>French Market Lead (Native French Speaker)</b>  
+<i>Lead professional calls, manage client relationships and develop partnerships across French-speaking markets.</i>
 
-- <b>Production & Supply Chain Manager</b>  
-<i>Factory documentation, BOM, CPL, production process, shipping and logistics.</i>
+- <b>English Market Lead (Native English Speaker)</b>  
+<i>Lead professional calls, manage client relationships and develop partnerships across English-speaking markets.</i>
 
 - <b>FiveM Video Editor</b>  
 <i>High-quality FiveM cinematics, Rockstar Editor, trailers and social content.</i>
