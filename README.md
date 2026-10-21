@@ -276,9 +276,9 @@
 </div>
 
 
-<div align="center">
+<!--<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gtolontop&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</div>
+</div>-->
 
 ---
 
@@ -293,8 +293,8 @@
 ### 📫 Contact
 
 <div align="center">
-  <a href="https://discord.gg/yourscript" rel="nofollow"><img src="https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://your-script.com" rel="nofollow"><img src="https://img.shields.io/badge/Your%20Script-Website-00C853?style=for-the-badge" alt="Your Script" /></a>
+  <a href="https://discord.com/users/746700907248484393" rel="nofollow"><img src="https://img.shields.io/badge/Discord-Message%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact me on Discord" /></a>
+  <a href="mailto:gtolontop@gmail.com"><img src="https://img.shields.io/badge/Email-gtolontop%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email gtolontop@gmail.com" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
