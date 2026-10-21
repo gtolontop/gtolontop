@@ -81,7 +81,7 @@
 - Redlight <i>(community server)</i>
 - FiveM Resource Finder <i>(FiveM website & community)</i>
 - T-Dev <i>(developer community Discord)</i>
-- <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(bio website platform)</i>
+- fivelink.lol <i>(bio website platform)</i>
 - <a href="https://mykopilot.com" rel="nofollow">Kopilot</a> <i>(hardware product)</i>
 - <a href="https://edicted.vercel.app/" rel="nofollow">Edicted</a> <i>(academy website)</i>
 - <a href="https://github.com/epyidev/vaste" rel="nofollow">Vaste</a> <i>(voxel game service)</i>
