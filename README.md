@@ -47,18 +47,11 @@
 
 ### 💞️ Currently looking for help
 
-- <b>French Market Lead (Native French Speaker)</b>  
-<i>Lead professional calls, manage client relationships and develop partnerships across French-speaking markets.</i>
-
-- <b>English Market Lead (Native English Speaker)</b>  
-<i>Lead professional calls, manage client relationships and develop partnerships across English-speaking markets.</i>
-
 - <b>FiveM Video Editor</b>  
 <i>High-quality FiveM cinematics, Rockstar Editor, trailers and social content.</i>
 
 ### 💞️ Where I work ?
 
-- <a href="https://facade.your-script.com" rel="nofollow">Facade</a> <i>(Web Design Agency)</i>
 - <a href="https://chat.mykopilot.com" rel="nofollow">Lucille Labs</a> <i>(AI Labs)</i>
 - <a href="https://your-script.com" rel="nofollow">Your Script</a> <i>(FiveM scripts & maps store)</i>
 - <a href="https://lyrescript.com" rel="nofollow">Lyre Script</a> <i>(FiveM script store)</i>
